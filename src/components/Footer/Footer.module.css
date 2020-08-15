@@ -1,0 +1,56 @@
+.footer {
+    
+    height: 122px;
+    background-color: #ecf0f1;
+}
+
+.container_country {
+    display: flex;
+    padding-top: 30px;
+    
+}
+
+.link {
+    text-decoration: none;
+    padding: 0px 5px;
+    border-right: solid 0.5px #000000;
+
+
+    font-family: ;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #202026;
+
+}
+
+.container_others {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+.others {
+    width: 33.33%;
+}
+
+.link_other {
+
+    text-decoration: none;
+    padding: 0px 5px;
+   
+
+
+    font-family: ;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #202026;
+
+}
